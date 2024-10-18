@@ -4,10 +4,6 @@ This is `React-Spotify` - a React front end client that communicates with the Sp
 
 See it in action [here]()
 
-![alt text](  Player/SCR-20241018-igmu.png "Song")
-
-
-
 If you wish to run the code locally run the following.
 
 ```
@@ -26,4 +22,4 @@ Please note that the Spotify API only provides 30 second audio snippets. It may 
 
 Released under the MIT License. 
 
-Check [LICENSE.md]() for more info.
+Check [LICENSE.md](https://github.com/RybakAndrii/Spotify-Player/blob/main/LICENSE) for more info.
