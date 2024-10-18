@@ -4,10 +4,6 @@ This is `React-Spotify` - a React front end client that communicates with the Sp
 
 See it in action [here]()
 
-![alt text](  Player/SCR-20241018-igmu.png "Song")
-
-
-
 If you wish to run the code locally run the following.
 
 ```
