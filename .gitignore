@@ -2,3 +2,8 @@ process.env
  SCR-20241018-igmu.png
 
  ./build
+
+ .env
+ .env.production
+ .env.development
+ 
