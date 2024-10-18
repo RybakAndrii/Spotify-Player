@@ -73,7 +73,7 @@ export const fetchArtistSongs = (artistId, accessToken) => {
       }
       return res.json();
     }).then(res => {
-      // map the response to match that returned from get song request
+      
       res.items = res.tracks.map(item => {
         return {
           track: item
