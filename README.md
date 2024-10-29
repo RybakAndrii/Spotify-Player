@@ -1,8 +1,9 @@
 # React-Spotify 
 
+Beetroot Academy final project. 
+
 This is `React-Spotify` - a React front end client that communicates with the Spotify API.
 
-See it in action [here]()
 
 If you wish to run the code locally run the following.
 
